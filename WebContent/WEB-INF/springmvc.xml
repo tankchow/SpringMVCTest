@@ -7,7 +7,7 @@
 
 
     <!-- 配置自动扫描的包 -->
-    <context:component-scan base-package="gwi.zlh.study"></context:component-scan>
+    <context:component-scan base-package="gwi.zlh.controller"></context:component-scan>
 
     <!-- 打开注解驱动 -->
     <mvc:annotation-driven />
